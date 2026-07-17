@@ -1,0 +1,20 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# venvs
+venv/
+.venv/
+env/
+
+# regenerated output, not the sample plots in docs/images
+results/
+results_*/
+
+# os/editor junk
+.DS_Store
+.vscode/
+.idea/
